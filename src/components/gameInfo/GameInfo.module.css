@@ -5,3 +5,8 @@
   gap: 20px;
   min-width: 170px;
 }
+
+.gamedraw {
+  gap: 50px;
+  min-height: 70px;
+}
