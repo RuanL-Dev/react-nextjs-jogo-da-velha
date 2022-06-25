@@ -5,7 +5,16 @@
 }
 
 .scoreContent {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 20px;
+  border: 2px solid rgb(107, 62, 139);
+  width: 70px;
+  height: 100px;
+  border-radius: 5px;
   display: flex;
   flex-direction: column;
+  justify-content: center;
   align-items: center;
+
 }
