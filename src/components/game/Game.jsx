@@ -24,7 +24,6 @@ function Game () {
   const [draw, setDraw] = useState(false)
   const [countCircle, setCountCircle] = useState(0)
   const [countX, setCountX] = useState(0)
-  console.log (countCircle)
   
 
   const handleClick = (pos) => {
